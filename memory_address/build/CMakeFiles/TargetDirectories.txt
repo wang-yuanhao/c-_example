@@ -1,0 +1,3 @@
+/home/wangyuanhao/core_repository/c-_example/memory_address/build/CMakeFiles/memory_address_test.dir
+/home/wangyuanhao/core_repository/c-_example/memory_address/build/CMakeFiles/edit_cache.dir
+/home/wangyuanhao/core_repository/c-_example/memory_address/build/CMakeFiles/rebuild_cache.dir

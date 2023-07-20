@@ -1,0 +1,3 @@
+/home/wangyuanhao/core_repository/c-_example/thread_bind/build/CMakeFiles/example.dir
+/home/wangyuanhao/core_repository/c-_example/thread_bind/build/CMakeFiles/edit_cache.dir
+/home/wangyuanhao/core_repository/c-_example/thread_bind/build/CMakeFiles/rebuild_cache.dir

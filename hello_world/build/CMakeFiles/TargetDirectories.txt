@@ -1,0 +1,3 @@
+/home/wangyuanhao/core_repository/c-_example/hello_world/build/CMakeFiles/helloworld.dir
+/home/wangyuanhao/core_repository/c-_example/hello_world/build/CMakeFiles/edit_cache.dir
+/home/wangyuanhao/core_repository/c-_example/hello_world/build/CMakeFiles/rebuild_cache.dir

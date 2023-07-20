@@ -1,0 +1,3 @@
+/home/wangyuanhao/core_repository/c-_example/haxi/build/CMakeFiles/haxi.dir
+/home/wangyuanhao/core_repository/c-_example/haxi/build/CMakeFiles/edit_cache.dir
+/home/wangyuanhao/core_repository/c-_example/haxi/build/CMakeFiles/rebuild_cache.dir
